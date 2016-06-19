@@ -1,2 +1,3 @@
-# atom-play-piano
-In atom piano notes are played as you code... So amazing !
+# atom-play-piano package
+
+Piano notes are played as you code... So amazing !

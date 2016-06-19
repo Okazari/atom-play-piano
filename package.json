@@ -1,0 +1,18 @@
+{
+  "name": "atom-play-piano",
+  "main": "./lib/atom-play-piano",
+  "version": "1.0.0",
+  "description": "Piano notes are played as you code... So amazing !",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-play-piano:toggle"
+  },
+  "repository": "https://github.com/Okazari/atom-play-piano",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

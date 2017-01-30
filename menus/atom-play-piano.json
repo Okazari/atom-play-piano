@@ -16,6 +16,10 @@
                 {
                   "label": "StarWars",
                   "command": "atom-play-piano:set-song-star-wars"
+                },
+                {
+                  "label": "Tetris",
+                  "command": "atom-play-piano:set-song-tetris"
                 }
               ]
             }

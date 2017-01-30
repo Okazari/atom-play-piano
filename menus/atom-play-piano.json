@@ -1,10 +1,27 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle atom-play-piano",
-        "command": "atom-play-piano:toggle"
-      }
-    ]
-  }
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu":[
+        {
+          "label": "Atom play piano",
+          "submenu": [
+            {
+              "label": "Activate !",
+              "command": "atom-play-piano:toggle"
+            },
+            {
+              "label": "Choose a song",
+              "submenu": [
+                {
+                  "label": "StarWars",
+                  "command": "atom-play-piano:set-song-star-wars"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

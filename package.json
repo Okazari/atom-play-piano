@@ -1,9 +1,10 @@
 {
   "name": "atom-play-piano",
   "main": "./lib/atom-play-piano",
-  "version": "2.0.4",
+  "version": "1.0.0",
   "description": "Piano notes are played as you code... So amazing !",
-  "keywords": [],
+  "keywords": [
+  ],
   "activationCommands": {
     "atom-workspace": "atom-play-piano:toggle"
   },
@@ -12,5 +13,6 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+  }
 }

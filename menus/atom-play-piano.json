@@ -6,21 +6,5 @@
         "command": "atom-play-piano:toggle"
       }
     ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "atom-play-piano",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "atom-play-piano:toggle"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  }
 }

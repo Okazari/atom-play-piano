@@ -7,8 +7,12 @@
           "label": "Atom play piano",
           "submenu": [
             {
-              "label": "Activate !",
+              "label": "Toggle :)",
               "command": "atom-play-piano:toggle"
+            },
+            {
+              "label": "Reload settings",
+              "command": "atom-play-piano:refresh-songs"
             },
             {
               "label": "Choose a song",

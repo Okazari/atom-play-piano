@@ -11,20 +11,20 @@ You should already hear a beautiful piano sound each time you add a character to
 
 Notes are mostly random, but there is some mapping :
 
- - 1: DO
- - 2: RE
- - 3: MI
- - 4: FA
- - 5: SOL
- - 6: LA
- - 7: SI
- - 8: DO
- - {}: DO, MI ,SOL
- - (): MI, SOL ,SI
- - []: FA, LA ,DO
- - '': RE, FA ,LA
- - "": SOL, MI ,DO+
- - Others: random
+ - `1`: DO
+ - `2`: RE
+ - `3`: MI
+ - `4`: FA
+ - `5`: SOL
+ - `6`: LA
+ - `7`: SI
+ - `8`: DO
+ - `{}`: DO, MI ,SOL
+ - `()`: MI, SOL ,SI
+ - `[]`: FA, LA ,DO
+ - `''`: RE, FA ,LA
+ - `""`: SOL, MI ,DO+
+ - `Others`: random
 
 ###To activate a song :
 Use the "Choose a song" menu item in `Packages => Atom play piano => Choose a song => SongName`
@@ -38,7 +38,7 @@ You also have three free slots to tune in your own songs
  - Go to the package settings
  - Add a name for your custom song
  - Code your custom song as notes separated by commas : `DO, RE, MI, FA, SOL`
- - Use the `Refresh songs` sub menu to apply changes
+ - Use the `Refresh settings` sub menu to apply changes
 
 Availables notes (Currently only supporting french notation sry !) :
  - Use the note name: `DO, RE, MI, FA, SOL, LA, SI`

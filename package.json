@@ -1,7 +1,7 @@
 {
   "name": "atom-play-piano",
   "main": "./lib/atom-play-piano",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "Piano notes are played as you code... So amazing !",
   "keywords": [],
   "activationCommands": {

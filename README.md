@@ -26,7 +26,7 @@ Notes are mostly random, but there is some mapping :
  - `""`: SOL, MI ,DO+
  - `Others`: random
 
-###To activate a song :
+### To activate a song :
 Use the "Choose a song" menu item in `Packages => Atom play piano => Choose a song => SongName`
 
 Now notes will follow the song you choosed.
